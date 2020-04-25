@@ -38,3 +38,12 @@ module.exports = (numA, numB) => +numA + +numB
 ```sh
 ./lib/inspect -p X
 ```
+
+## Solved Problems
+
+* [Problem #1][1]
+* [Problem #2][2]
+
+<!-- References -->
+[1]: ./lib/problem1/README.md
+[2]: ./lib/problem2/README.md
