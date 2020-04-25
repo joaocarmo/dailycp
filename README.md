@@ -14,7 +14,7 @@ solution as a function.
 
 ### Example
 
-**Problem:**
+**Problem:** Return the sum of 2 integers.
 
 `input.json`
 
@@ -43,7 +43,9 @@ module.exports = (numA, numB) => +numA + +numB
 
 * [Problem #1][1]
 * [Problem #2][2]
+* [Problem #3][3]
 
 <!-- References -->
 [1]: ./lib/problem1/README.md
 [2]: ./lib/problem2/README.md
+[3]: ./lib/problem3/README.md
