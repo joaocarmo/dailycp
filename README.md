@@ -45,9 +45,11 @@ module.exports = (numA, numB) => +numA + +numB
 * [Problem #2][2]
 * [Problem #3][3]
 * [Problem #4][4]
+* [Problem #5][5]
 
 <!-- References -->
 [1]: ./lib/problem1/README.md
 [2]: ./lib/problem2/README.md
 [3]: ./lib/problem3/README.md
 [4]: ./lib/problem4/README.md
+[5]: ./lib/problem5/README.md
