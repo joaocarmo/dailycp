@@ -1,0 +1,5 @@
+# Problem # {{NUMBER}}
+
+###### [{{DIFFICULTY}}]
+
+{{DESCRIPTION}}

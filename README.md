@@ -12,6 +12,8 @@ solution as a function.
 
 3. Test the problem by calling the inspector and passing the problem number `X`
 
+**Note:** Check the [boilerplate][boilerplate].
+
 ### Example
 
 **Problem:** Return the sum of 2 integers.
@@ -46,10 +48,13 @@ module.exports = (numA, numB) => +numA + +numB
 * [Problem #3][3]
 * [Problem #4][4]
 * [Problem #5][5]
+* [Problem #6][6]
 
 <!-- References -->
-[1]: ./lib/problem1/README.md
-[2]: ./lib/problem2/README.md
-[3]: ./lib/problem3/README.md
-[4]: ./lib/problem4/README.md
-[5]: ./lib/problem5/README.md
+[boilerplate]: ./lib/boilerplate
+[1]: ./lib/problem1
+[2]: ./lib/problem2
+[3]: ./lib/problem3
+[4]: ./lib/problem4
+[5]: ./lib/problem5
+[6]: ./lib/problem6
