@@ -26,3 +26,15 @@ concatenating the `n` string `k` times. Continuing the above example where
 
 All of the digits of `p` sum to `116`. The digits of `116` sum to `8`. `8` is
 only one digit, so it's the super digit.
+
+Sample Input
+
+```
+148 3
+```
+
+Sample Output
+
+```
+3
+```

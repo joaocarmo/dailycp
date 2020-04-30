@@ -38,7 +38,7 @@ module.exports = (numA, numB) => +numA + +numB
 **Testing:**
 
 ```sh
-./lib/inspect -p X
+yarn inspect -p X
 ```
 
 ## Solved Problems

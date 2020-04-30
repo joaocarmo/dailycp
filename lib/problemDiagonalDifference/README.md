@@ -2,13 +2,13 @@
 
 ###### [Easy]
 
-Given a square matrix of size N×N, calculate the absolute difference between the
-sums of its diagonals.
+Given a square matrix of size `N`×`N`, calculate the absolute difference between
+the sums of its diagonals.
 
 **Input Format**
 
-The first line contains a single integer, N. The next N lines denote the
-matrix’s rows, with each line containing N space-separated integers describing
+The first line contains a single integer, `N`. The next `N` lines denote the
+matrix’s rows, with each line containing `N` space-separated integers describing
 the columns.
 
 **Output Format**

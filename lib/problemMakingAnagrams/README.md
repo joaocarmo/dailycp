@@ -19,3 +19,16 @@ anagrams. Any characters can be deleted from either of the strings.
 For example, `s1 = abc` and `s2 = amnop`. The only characters that match are the
 **a**'s so we have to remove **bc** from `s1` and **mnop** from `s2` for a total
 of **6** deletions.
+
+Sample Input
+
+```
+cde
+abc
+```
+
+Sample Output
+
+```
+4
+```
