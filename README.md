@@ -43,18 +43,29 @@ module.exports = (numA, numB) => +numA + +numB
 
 ## Solved Problems
 
+### Main series
+
 * [Problem #1][1]
 * [Problem #2][2]
 * [Problem #3][3]
 * [Problem #4][4]
 * [Problem #5][5]
-* [Problem #6][6]
+
+### Extra credit
+
+* [Diagonal Difference][diagonaldifference]
+* [Making Anagrams][makinganagrams]
+* [Recursive Digit Sum][recursivedigitsum]
 
 <!-- References -->
 [boilerplate]: ./lib/boilerplate
+
 [1]: ./lib/problem1
 [2]: ./lib/problem2
 [3]: ./lib/problem3
 [4]: ./lib/problem4
 [5]: ./lib/problem5
-[6]: ./lib/problem6
+
+[diagonaldifference]: ./lib/problemDiagonalDifference
+[makinganagrams]: ./lib/problemMakingAnagrams
+[recursivedigitsum]: ./lib/problemRecursiveDigitSum

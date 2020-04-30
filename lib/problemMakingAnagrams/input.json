@@ -1,0 +1,10 @@
+[
+  {
+    "args": ["abc\namnop"],
+    "expected": 6
+  },
+  {
+    "args": ["cde\nabc"],
+    "expected": 4
+  }
+]
