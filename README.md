@@ -2,7 +2,15 @@
 
 Daily Coding Problem
 
-## How to use
+## How to use (automatically)
+
+Run the following command and answer the promps.
+
+```sh
+yarn problem
+```
+
+## How to use (manually)
 
 1. Add a new directory inside the `lib` directory and name it `problemX`.
 
@@ -58,6 +66,7 @@ yarn inspect -p X
 * [Recursive Digit Sum][recursivedigitsum]
 
 <!-- References -->
+
 [boilerplate]: ./lib/boilerplate
 
 [1]: ./lib/problem1
