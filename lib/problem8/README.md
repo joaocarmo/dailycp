@@ -5,8 +5,8 @@
 We call an array _bi-valued_ if it contains at most two different numbers.
 
 For example, `[4, 5, 5, 4, 5]` is bi-valued (it contains two different numbers:
-4 and 5), but `[1, 5, 4, 5]` is not bi-valued (it contains three different
-numbers: 1, 4 and 5).
+`4` and `5`), but `[1, 5, 4, 5]` is not bi-valued (it contains three different
+numbers: `1`, `4` and `5`).
 
 **What is the length of the longest bi-valued slice (continuous fragment) in a
 given array `A`?**
@@ -31,7 +31,7 @@ bi-valued slice is `[5, 4, 4, 5]`.
 
 Given `A = [4, 4]`, the function should return `2`.
 
-Assume that:
+**Assume that:**
 
 1. `N` is an integer within the range `[1, 100]`
 1. Each element of array `A` is an integer within the range
