@@ -42,5 +42,29 @@
   {
     "args": [112],
     "expected": 3
+  },
+  {
+    "args": [521],
+    "expected": 2
+  },
+  {
+    "args": [1521],
+    "expected": 4
+  },
+  {
+    "args": [51521],
+    "expected": 4
+  },
+  {
+    "args": [251521],
+    "expected": 8
+  },
+  {
+    "args": [5251521],
+    "expected": 8
+  },
+  {
+    "args": [91215225251521],
+    "expected": 120
   }
 ]
