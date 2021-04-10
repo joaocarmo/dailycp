@@ -1,6 +1,46 @@
 [
   {
+    "args": [0],
+    "expected": 0
+  },
+  {
     "args": [111],
+    "expected": 3
+  },
+  {
+    "args": [1111],
+    "expected": 5
+  },
+  {
+    "args": [11111],
+    "expected": 8
+  },
+  {
+    "args": [111111],
+    "expected": 13
+  },
+  {
+    "args": [1111111],
+    "expected": 21
+  },
+  {
+    "args": [2],
+    "expected": 1
+  },
+  {
+    "args": [21],
+    "expected": 2
+  },
+  {
+    "args": [211],
+    "expected": 3
+  },
+  {
+    "args": [121],
+    "expected": 3
+  },
+  {
+    "args": [112],
     "expected": 3
   }
 ]
