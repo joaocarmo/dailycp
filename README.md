@@ -15,8 +15,8 @@ yarn problem
 1. Add a new directory inside the `lib` directory and name it `problemX`.
 
 2. Create two files: `input.json` and `solution.js`. The first should be an
-array of objects to test against the solution and the second should export the
-solution as a function.
+   array of objects to test against the solution and the second should export
+   the solution as a function.
 
 3. Test the problem by calling the inspector and passing the problem number `X`
 
@@ -53,30 +53,28 @@ yarn inspect -p X
 
 ### Main series
 
-* [Problem #1][1]
-* [Problem #2][2]
-* [Problem #3][3]
-* [Problem #4][4]
-* [Problem #5][5]
-* [Problem #8][8]
+- [Problem #1][1]
+- [Problem #2][2]
+- [Problem #3][3]
+- [Problem #4][4]
+- [Problem #5][5]
+- [Problem #8][8]
 
 ### Extra credit
 
-* [Diagonal Difference][diagonaldifference]
-* [Making Anagrams][makinganagrams]
-* [Recursive Digit Sum][recursivedigitsum]
+- [Diagonal Difference][diagonaldifference]
+- [Making Anagrams][makinganagrams]
+- [Recursive Digit Sum][recursivedigitsum]
 
 <!-- References -->
 
 [boilerplate]: ./lib/boilerplate
-
 [1]: ./lib/problem1
 [2]: ./lib/problem2
 [3]: ./lib/problem3
 [4]: ./lib/problem4
 [5]: ./lib/problem5
 [8]: ./lib/problem8
-
 [diagonaldifference]: ./lib/problemDiagonalDifference
 [makinganagrams]: ./lib/problemMakingAnagrams
 [recursivedigitsum]: ./lib/problemRecursiveDigitSum

@@ -1,6 +1,6 @@
 [
   {
-    "args": [],
-    "expected": null
+    "args": [111],
+    "expected": 3
   }
 ]
