@@ -59,6 +59,7 @@ yarn inspect -p X
 - [Problem #4][4]
 - [Problem #5][5]
 - [Problem #7][7]
+- [Problem #6][6]
 - [Problem #8][8]
 
 ### Extra credit
@@ -76,6 +77,7 @@ yarn inspect -p X
 [4]: ./lib/problem4
 [5]: ./lib/problem5
 [7]: ./lib/problem7
+[6]: ./lib/problem6
 [8]: ./lib/problem8
 [diagonaldifference]: ./lib/problemDiagonalDifference
 [makinganagrams]: ./lib/problemMakingAnagrams
