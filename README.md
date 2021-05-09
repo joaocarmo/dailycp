@@ -18,7 +18,7 @@ yarn problem
    array of objects to test against the solution and the second should export
    the solution as a function.
 
-3. Test the problem by calling the inspector and passing the problem number `X`
+3. Test the problem by calling the inspector and passing the problem number `X`.
 
 **Note:** Check the [boilerplate][boilerplate].
 
@@ -61,6 +61,7 @@ yarn inspect -p X
 - [Problem #7][7]
 - [Problem #6][6]
 - [Problem #8][8]
+- [Problem #9][9]
 
 ### Extra credit
 
@@ -79,6 +80,7 @@ yarn inspect -p X
 [7]: ./lib/problem7
 [6]: ./lib/problem6
 [8]: ./lib/problem8
+[9]: ./lib/problem9
 [diagonaldifference]: ./lib/problemDiagonalDifference
 [makinganagrams]: ./lib/problemMakingAnagrams
 [recursivedigitsum]: ./lib/problemRecursiveDigitSum

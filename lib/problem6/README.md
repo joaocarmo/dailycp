@@ -6,6 +6,10 @@ When climbing a set of stairs, you can choose to climb either 1 or 2 steps at a
 time. Given an `N` number of steps, find all the possible combinations of
 climbing the stairs.
 
+```ts
+function solution(N: number): number {}
+```
+
 **Examples:**
 
 Given `N = 3`, the answer should be `3` because you can climb the stairs using
