@@ -58,8 +58,8 @@ yarn inspect -p X
 - [Problem #3][3]
 - [Problem #4][4]
 - [Problem #5][5]
-- [Problem #7][7]
 - [Problem #6][6]
+- [Problem #7][7]
 - [Problem #8][8]
 - [Problem #9][9]
 
@@ -77,8 +77,8 @@ yarn inspect -p X
 [3]: ./lib/problem3
 [4]: ./lib/problem4
 [5]: ./lib/problem5
-[7]: ./lib/problem7
 [6]: ./lib/problem6
+[7]: ./lib/problem7
 [8]: ./lib/problem8
 [9]: ./lib/problem9
 [diagonaldifference]: ./lib/problemDiagonalDifference
